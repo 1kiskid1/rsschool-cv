@@ -14,7 +14,6 @@ I'm a student of BNTU, future engineer. At the moment I'm a 3rd year student.
 ## Code example:
 
 ```
-
 function sayHello() {
     console.log("Hello world!");
 }
