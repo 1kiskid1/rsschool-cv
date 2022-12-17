@@ -1,3 +1,13 @@
 * {
     margin: 0;
+    font-family: 'Playfair Display', serif;
+}
+.about-me { 
+    position: absolute;
+    width: 258px;
+    height: 428px;
+    left: 0px;
+    top: -6.9px;
+    background-color: lightpink;
+
 }
